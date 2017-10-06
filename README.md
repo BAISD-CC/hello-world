@@ -1,2 +1,2 @@
 # hello-world
-This repository is intended to show students how to use GitHub.
+This file has been changed by Mr. Dockett.
